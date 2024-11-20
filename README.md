@@ -1,7 +1,15 @@
-<h1 align="center">Hi, I'm Muhammad Abdullah Abrar</h1>
-<h3 align="center">I'm a Passionate DevOps Engineer from Pakistan</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-0-3&color=brightgreen" alt="Profile Views">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-0-3&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-0-3" /> </p>
+<h1 align="center">Muhammad Abdullah Abrar</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  Hi there! 👋 Welcome to my GitHub profile.
+
+  I’m <b>Muhammad Abdullah Abrar</b>, a <b>DevOps Engineer</b> passionate about automating workflows, building scalable systems, and leveraging the power of the cloud to solve real-world problems.
+</p>
 
 - 🌱 I’m currently learning **DevOps, Cloud Computing, and Kubernetes**
 
@@ -15,94 +23,74 @@
 
 ---
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/muhammadabdullahabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadabdullahabrar" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullahabrar_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahabrar_999" height="30" width="40" /></a>
+<h2 align="center">🛠️ Skills & Expertise</h2>
+
+<p align="center">
+  <b>DevOps & Cloud</b><br><br>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins">
+</p>
+
+<p align="center">
+  <b>Programming & Scripting</b><br><br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Bash">
+  <img src="https://img.shields.io/badge/-YAML-000000?logo=yaml&logoColor=white&style=for-the-badge" alt="YAML">
+</p>
+
+<p align="center">
+  <b>Operating Systems</b><br><br>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/-RHEL-EE0000?logo=red-hat&logoColor=white&style=for-the-badge" alt="RHEL">
 </p>
 
 ---
 
-## Skills:
+<h2 align="center">📊 GitHub Stats</h2>
 
-### Cloud Computing
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-0-3&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-0-3&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### DevOps Tools
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadabdullahabrar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> 
+  <a href="https://github.com/Abdullah-0-3" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> 
+  <a href="https://www.instagram.com/abdullahabrar_999" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
-  <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="60" height="60"/> 
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="60" height="60"/> 
-  </a>
+</p>
+
+</p>
 </p>
 
 ---
 
-### Programming & Scripting
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
-  </a>
+<h2 align="center">⚡ Fun Fact</h2>
+
+<p align="center">
+  I’m always finding ways to optimize and automate—because <b>time is the ultimate resource</b>!
 </p>
 
 ---
 
-### Operating Systems
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a>
+<p align="center">
+  Feel free to explore my repositories and let’s create something <b>amazing</b> together! 🚀
 </p>
 
----
-
-### Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
-  </a>
-</p>
-
----
-
-### Testing Tools
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> 
-  </a>
-</p>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-0-3&show_icons=true&locale=en&layout=compact" alt="abdullah-0-3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-0-3&" alt="abdullah-0-3" /></p>
 
 
 <!--
