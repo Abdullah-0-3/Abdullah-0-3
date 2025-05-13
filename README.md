@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Muhammad Abdullah Abrar</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Problem Solver</h3>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
   Hi there! 👋 Welcome to my GitHub profile.
@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Computing, and Kubernetes**
 
-- 👯 I’m looking to collaborate on [My Portfolio](https://github.com/Abdullah-0-3/Abdullah-Portfolio)
+- 👯 I’m looking to collaborate on [Building My Portfolio](https://github.com/Abdullah-0-3/Abdullah-Portfolio)
 
-- 🤝 I’m looking for help with [Python for DevOps](https://github.com/Abdullah-0-3/Python-For-DevOps)
+- 🤝 I’m looking for help with [Python for DevOps Repository](https://github.com/Abdullah-0-3/Python-For-DevOps)
 
 - 💬 Ask me about **Docker, Kubernetes, Configuration Management**
 
